@@ -1,0 +1,100 @@
+/*Esto es un comentario*/
+* {
+
+    background: #f06292;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Arial;
+    color: #795548;
+}
+
+p {
+    font-size: 14px;
+    color: #525252;
+
+}
+
+hr {
+    border: 1px solid #ffffff;
+
+}
+
+/*Segunda Practica*/
+
+img {
+    width: 250px;
+    height: 200px;
+
+}
+
+/*Tercera Practica*/
+
+.Titulo {
+    font-size: 32px;
+    padding: 5px;
+
+}
+
+.tabla-uno {
+    width: 600px;
+    text-align: center;
+    font-size: 30px;
+    color: #795548;
+    background: #525252;
+
+}
+
+td {
+    padding: 7px 10px 10px 10px;
+
+}
+
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 40px;
+    display: inline-block;
+    background-color: #ee3e80;
+}
+
+p {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    margin: 20px;
+    min-height: 100px;
+    max-height: 300px;
+    min-width: 100px;
+    max-width: 300px;
+}
+
+
+p.one {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.5;
+
+}
+
+p.two {
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* --- --- OverFlow --- --- */
+
+p.uno {
+    overflow: hidden;
+}
+
+p.dos {
+    overflow: scroll;
+}
+
+div.cajitas {
+    width: 100px;
+    height: 100px;
+    margin: 40px;
+}

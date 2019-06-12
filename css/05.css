@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #111111;
+}
+
+p {
+    width: 200px;
+    border-style: solid;
+}
+
+p.one {
+    border-width: 2px;
+    border-color: #0088dd;
+}
+
+p.two {
+    border-width: thick;
+    border-color: #bbbbaa #111111 #ee3e80 #0088dd;
+    padding: 10px;
+}
+
+p.three {
+    border-width: 1px 4px 12px 4px;
+    margin: 20px;
+}
+
+p.four {
+    border-style: solid;
+}
+
+p.five {
+    border-style: dotted;
+}
+
+p.six {
+    border-style: dashed;
+}
+
+p.seven {
+    border-style: double;
+}
+
+p.eight {
+    border-style: groove;
+}
+
+p.nine {
+    border-style: ridge;
+}
+
+p.ten {
+    border-style: inset;
+}
+
+p.eleven {
+    border-style: outset;
+}
+
+p.twelve {
+    border: 3px dotted #0088dd;
+}
