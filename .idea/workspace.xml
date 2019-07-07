@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04/comparison-operator-continued.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/css/c04.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/images/bullseye-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/images/teacher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/js/comparison-operator-continued.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/js/logical-and.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/logical-and.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04/comparison-operator-continued.html">
+        <entry file="file://$PROJECT_DIR$/04/logical-and.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="187">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
                 <element signature="e#89#94#0" expanded="true" />
                 <element signature="e#125#130#0" expanded="true" />
@@ -41,10 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04/js/comparison-operator-continued.js">
+        <entry file="file://$PROJECT_DIR$/04/js/logical-and.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="221">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -112,6 +109,10 @@
         <option value="$PROJECT_DIR$/js/example03.js" />
         <option value="$PROJECT_DIR$/04/comparison-operator-continued.html" />
         <option value="$PROJECT_DIR$/04/js/comparison-operator-continued.js" />
+        <option value="$PROJECT_DIR$/04/comparison-operator.html" />
+        <option value="$PROJECT_DIR$/04/js/comparison-operator.js" />
+        <option value="$PROJECT_DIR$/04/logical-and.html" />
+        <option value="$PROJECT_DIR$/04/js/logical-and.js" />
       </list>
     </option>
   </component>
@@ -144,6 +145,12 @@
               <item name="practicas" type="462c0819:PsiDirectoryNode" />
               <item name="04" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practicas" type="462c0819:PsiDirectoryNode" />
+              <item name="04" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
@@ -228,7 +235,7 @@
       <workItem from="1560741166582" duration="641000" />
       <workItem from="1561340895831" duration="8646000" />
       <workItem from="1562439434533" duration="177000" />
-      <workItem from="1562524235260" duration="3318000" />
+      <workItem from="1562524235260" duration="4783000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -356,11 +363,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562526816103</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Comparing two expressions">
+      <created>1562527770122</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1562527770122</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Using comparison operators">
+      <created>1562528129224</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562528129224</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52926000" />
+    <option name="totallyTimeSpent" value="54391000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -429,7 +450,20 @@
     <MESSAGE value="Creating a Date Object" />
     <MESSAGE value="Working with Dates &amp; Times" />
     <MESSAGE value="Finalizacion del example #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizacion del example #3" />
+    <MESSAGE value="Comparing two expressions" />
+    <MESSAGE value="Using comparison operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using comparison operators" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/04/js/comparison-operator-continued.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/string-variable.js">
@@ -804,10 +838,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04/comparison-operator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/logical-and.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04/js/comparison-operator-continued.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/js/comparison-operator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/js/logical-and.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
