@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/date-object-diference.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/date-object-difference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/example03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/date-object-difference.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/date-object-difference.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/date-object-diference.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
                 <element signature="e#88#93#0" expanded="true" />
                 <element signature="e#133#138#0" expanded="true" />
@@ -37,11 +38,36 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example03.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="e#89#94#0" expanded="true" />
+                <element signature="e#134#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/example03.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/date-object-difference.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            <state relative-caret-position="238">
+              <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -64,9 +90,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-              <folding>
-                <element signature="e#14#20#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,6 +153,8 @@
         <option value="$PROJECT_DIR$/js/date-object-diference.js" />
         <option value="$PROJECT_DIR$/date-object-diference.html" />
         <option value="$PROJECT_DIR$/js/date-object-difference.js" />
+        <option value="$PROJECT_DIR$/Example03.html" />
+        <option value="$PROJECT_DIR$/js/example03.js" />
       </list>
     </option>
   </component>
@@ -145,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,22 +180,18 @@
             <path>
               <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +199,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -241,7 +261,9 @@
       <workItem from="1560479137608" duration="4989000" />
       <workItem from="1560653197994" duration="7792000" />
       <workItem from="1560741166582" duration="641000" />
-      <workItem from="1561340895831" duration="6910000" />
+      <workItem from="1561340895831" duration="8646000" />
+      <workItem from="1562439434533" duration="177000" />
+      <workItem from="1562524235260" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -355,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561434631110</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Working with Dates &amp; Times">
+      <created>1561435471688</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1561435471688</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47695000" />
+    <option name="totallyTimeSpent" value="52067000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -426,7 +455,8 @@
     <MESSAGE value="Working with String" />
     <MESSAGE value="Working with decimal numbers" />
     <MESSAGE value="Creating a Date Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a Date Object" />
+    <MESSAGE value="Working with Dates &amp; Times" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Dates &amp; Times" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/string-variable.js">
@@ -726,8 +756,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/date-object-diference.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/js/date-object-diference.js" />
+    <entry file="file://$PROJECT_DIR$/js/date-object-difference.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/date-object.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -744,16 +779,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding>
-            <element signature="e#14#20#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/date-object-diference.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding>
             <element signature="e#88#93#0" expanded="true" />
             <element signature="e#133#138#0" expanded="true" />
@@ -761,10 +793,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/date-object-difference.js">
+    <entry file="file://$PROJECT_DIR$/Example03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#134#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/example03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
