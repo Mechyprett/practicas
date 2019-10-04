@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04/js/logical-and.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/logical-and.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logical And.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison-operator-continued.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison-operator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/c04.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullseye-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/teacher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Logical And.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/comparison-operator-continued.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/comparison-operator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/logical-or-logical-not.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical-or-logical-not.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,10 +34,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04/logical-and.html">
+        <entry file="file://$PROJECT_DIR$/Logical And.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="255">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding>
+                <element signature="e#89#94#0" expanded="true" />
+                <element signature="e#125#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logical-or-logical-not.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
               <folding>
                 <element signature="e#89#94#0" expanded="true" />
                 <element signature="e#125#130#0" expanded="true" />
@@ -38,10 +60,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04/js/logical-and.js">
+        <entry file="file://$PROJECT_DIR$/js/logical-or-logical-not.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Logical And.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="33" lean-forward="true" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/c04.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04/js/logical-or-logical-not.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -63,16 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/string-variable.js" />
-        <option value="$PROJECT_DIR$/string-variable.html" />
-        <option value="$PROJECT_DIR$/numeric.html" />
-        <option value="$PROJECT_DIR$/shorthand-variable.html" />
-        <option value="$PROJECT_DIR$/css/c02.css" />
-        <option value="$PROJECT_DIR$/js/shorthand-variable.js" />
-        <option value="$PROJECT_DIR$/array-literal.html" />
-        <option value="$PROJECT_DIR$/js/update-array.js" />
-        <option value="$PROJECT_DIR$/js/array-constructor.js" />
-        <option value="$PROJECT_DIR$/array-constructor.html" />
         <option value="$PROJECT_DIR$/arithmetic-operator.html" />
         <option value="$PROJECT_DIR$/js/arithmetic-operator.js" />
         <option value="$PROJECT_DIR$/string-operator.html" />
@@ -113,21 +152,35 @@
         <option value="$PROJECT_DIR$/04/js/comparison-operator.js" />
         <option value="$PROJECT_DIR$/04/logical-and.html" />
         <option value="$PROJECT_DIR$/04/js/logical-and.js" />
+        <option value="$PROJECT_DIR$/04/logical-or-logical-not.html" />
+        <option value="$PROJECT_DIR$/04/js/logical-or-logical-not.js" />
+        <option value="$PROJECT_DIR$/comparison-operator.html" />
+        <option value="$PROJECT_DIR$/css/c04.css" />
+        <option value="$PROJECT_DIR$/js/comparison-operator.js" />
+        <option value="$PROJECT_DIR$/comparison-operator-continued.html" />
+        <option value="$PROJECT_DIR$/js/comparison-operator-continued.js" />
+        <option value="$PROJECT_DIR$/Logical And.html" />
+        <option value="$PROJECT_DIR$/js/Logical And.js" />
+        <option value="$PROJECT_DIR$/logical-or-logical-not.html" />
+        <option value="$PROJECT_DIR$/js/logical-or-logical-not.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
-    <option name="y" value="10" />
-    <option name="width" value="1351" />
-    <option name="height" value="546" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,25 +196,12 @@
             <path>
               <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="04" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="04" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +209,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,9 +217,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\img" />
       <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\04\css" />
       <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\04\images" />
-      <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -194,7 +234,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.object-constructor.html">
+  <component name="RunManager" selected="JavaScript Debug.comparison-operator.html">
+    <configuration name="comparison-operator.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas/comparison-operator.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="object-constructor.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas/object-constructor.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -203,6 +246,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.comparison-operator.html" />
         <item itemvalue="JavaScript Debug.object-constructor.html" />
         <item itemvalue="JavaScript Debug.string-variable.html" />
       </list>
@@ -235,7 +279,11 @@
       <workItem from="1560741166582" duration="641000" />
       <workItem from="1561340895831" duration="8646000" />
       <workItem from="1562439434533" duration="177000" />
-      <workItem from="1562524235260" duration="4783000" />
+      <workItem from="1562524235260" duration="5744000" />
+      <workItem from="1566379980023" duration="382000" />
+      <workItem from="1567370347115" duration="615000" />
+      <workItem from="1567854807753" duration="1937000" />
+      <workItem from="1570060580822" duration="4551000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -377,11 +425,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562528129224</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Using logical AND">
+      <created>1562529076762</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562529076762</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Using logical Or &amp; Logical NOT">
+      <created>1562529421323</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1562529421323</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54391000" />
+    <option name="totallyTimeSpent" value="62837000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -393,7 +455,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.16666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.16517857" />
       <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.13169643" />
       <window_info id="Favorites" order="2" sideWeight="0.5040917" side_tool="true" weight="0.13169643" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -404,7 +466,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.48139882" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4903274" visible="true" weight="0.14566284" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4903274" visible="true" weight="0.1391162" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50967264" side_tool="true" weight="0.21767594" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -452,103 +514,21 @@
     <MESSAGE value="Finalizacion del example #3" />
     <MESSAGE value="Comparing two expressions" />
     <MESSAGE value="Using comparison operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using comparison operators" />
+    <MESSAGE value="Using logical AND" />
+    <MESSAGE value="Using logical Or &amp; Logical NOT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using logical Or &amp; Logical NOT" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/04/js/comparison-operator-continued.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/string-variable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numeric.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/shorthand-variable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shorthand-variable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#52#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string-variable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array-literal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/array-constructor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/update-array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array-constructor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/arithmetic-operator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/string-operator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string-operator.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -849,17 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/logical-and.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="e#89#94#0" expanded="true" />
-            <element signature="e#125#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04/js/comparison-operator-continued.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -874,10 +843,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04/logical-and.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04/js/logical-and.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/logical-or-logical-not.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparison-operator.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/comparison-operator-continued.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/c04.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparison-operator-continued.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <element signature="e#114#119#0" expanded="true" />
+            <element signature="e#150#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/js/logical-or-logical-not.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/comparison-operator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logical And.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Logical And.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="true" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logical-or-logical-not.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding>
+            <element signature="e#89#94#0" expanded="true" />
+            <element signature="e#125#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/logical-or-logical-not.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
