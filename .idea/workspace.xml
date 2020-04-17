@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="Using logical AND &amp; Logical OR &amp; NOT">
-      <change afterPath="$PROJECT_DIR$/05/get-element-by-id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/get-element-by-id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for-loop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if-else-statement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if-statement-with-function.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if-statement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/example04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/for-loop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/if-else-statement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/if-statement-with-function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/if-statement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/switch-statement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/while-loop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switch-statement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while-loop.html" afterDir="false" />
+    <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="select elements using Id attributes">
+      <change afterPath="$PROJECT_DIR$/05/get-element-by-class-name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/js/get-elements-by-class-name.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -39,19 +25,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/get-element-by-id.html">
+        <entry file="file://$PROJECT_DIR$/05/get-element-by-class-name.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="378">
+              <caret line="18" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="42" />
+              <folding>
+                <element signature="e#52#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05/js/get-element-by-id.js">
+        <entry file="file://$PROJECT_DIR$/05/css/c05.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="294">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05/js/get-elements-by-class-name.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -73,9 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/window-object.js" />
-        <option value="$PROJECT_DIR$/js/document-object.js" />
-        <option value="$PROJECT_DIR$/document-object.html" />
         <option value="$PROJECT_DIR$/string-object.html" />
         <option value="$PROJECT_DIR$/js/string-object.js" />
         <option value="$PROJECT_DIR$/number-object.html" />
@@ -124,6 +119,9 @@
         <option value="$PROJECT_DIR$/js/example04.js" />
         <option value="$PROJECT_DIR$/05/get-element-by-id.html" />
         <option value="$PROJECT_DIR$/05/js/get-element-by-id.js" />
+        <option value="$PROJECT_DIR$/05/get-element-by-class-name.html" />
+        <option value="$PROJECT_DIR$/05/js/get-elements-by-class-name.js" />
+        <option value="$PROJECT_DIR$/05/css/c05.css" />
       </list>
     </option>
   </component>
@@ -153,6 +151,12 @@
               <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas" type="462c0819:PsiDirectoryNode" />
               <item name="05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practicas" type="462c0819:PsiDirectoryNode" />
+              <item name="05" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +221,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Uris Nicolas\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -254,7 +258,7 @@
       <workItem from="1576781584074" duration="635000" />
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
-      <workItem from="1587053691505" duration="7135000" />
+      <workItem from="1587053691505" duration="9346000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -417,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570159443776</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="select elements using Id attributes">
+      <created>1587099050904</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1587099050904</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86429000" />
+    <option name="totallyTimeSpent" value="88640000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -431,10 +442,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" weight="0.19521317" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.19371727" />
       <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.13169643" />
       <window_info id="Favorites" order="2" sideWeight="0.5040917" side_tool="true" weight="0.13169643" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.32991454" />
+      <window_info anchor="bottom" id="SVN Repositories" weight="0.32991454" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32888147" />
@@ -443,7 +457,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.48139882" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.4903274" visible="true" weight="0.4957265" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4903274" weight="0.4957265" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32991454" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50967264" side_tool="true" weight="0.21767594" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -494,7 +508,8 @@
     <MESSAGE value="Using logical AND" />
     <MESSAGE value="Using logical Or &amp; Logical NOT" />
     <MESSAGE value="Using logical AND &amp; Logical OR &amp; NOT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using logical AND &amp; Logical OR &amp; NOT" />
+    <MESSAGE value="select elements using Id attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="select elements using Id attributes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,31 +522,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/03.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1277">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string-object.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <element signature="e#88#93#0" expanded="true" />
-            <element signature="e#133#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/string-object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/number-object.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -914,7 +904,31 @@
     <entry file="file://$PROJECT_DIR$/05/js/get-element-by-id.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/js/get-elements-by-class-name.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/get-element-by-class-name.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#52#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/css/c05.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
