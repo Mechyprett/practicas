@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05/js/remove-elemet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/remove-elemet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/js/remove-elemet.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/remove-elemet.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05/remove-elemet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="399">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding>
                 <element signature="e#52#57#0" expanded="true" />
               </folding>
@@ -36,9 +35,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05/js/remove-elemet.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -108,8 +111,8 @@
         <option value="$PROJECT_DIR$/05/js/inner-html.js" />
         <option value="$PROJECT_DIR$/05/add-element.html" />
         <option value="$PROJECT_DIR$/05/js/add-element.js" />
-        <option value="$PROJECT_DIR$/05/js/remove-elemet.js" />
         <option value="$PROJECT_DIR$/05/remove-elemet.html" />
+        <option value="$PROJECT_DIR$/05/js/remove-elemet.js" />
       </list>
     </option>
   </component>
@@ -246,7 +249,7 @@
       <workItem from="1576781584074" duration="635000" />
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
-      <workItem from="1587053691505" duration="20646000" />
+      <workItem from="1587053691505" duration="20824000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -486,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587353723526</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Adding html document of removing element from the DOM tree">
+      <created>1587354199408</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1587354199408</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99940000" />
+    <option name="totallyTimeSpent" value="100118000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -528,7 +538,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="creacion de un objeto utilizando notaciones literales actualizacion" />
     <MESSAGE value="Creando y acediendo a objetos construrtor de notaciones" />
     <MESSAGE value="Agregando y anadiendo propiedades" />
     <MESSAGE value="creacion de un objeto utilizando notaciones literales" />
@@ -553,7 +562,8 @@
     <MESSAGE value="Update text &amp; markup" />
     <MESSAGE value="add element html" />
     <MESSAGE value="ADDING AND ELEMENT TO THE DOM TREE" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDING AND ELEMENT TO THE DOM TREE" />
+    <MESSAGE value="Adding html document of removing element from the DOM tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding html document of removing element from the DOM tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -951,16 +961,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/js/remove-elemet.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/remove-elemet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="399">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding>
             <element signature="e#52#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/js/remove-elemet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
         </state>
       </provider>
     </entry>
