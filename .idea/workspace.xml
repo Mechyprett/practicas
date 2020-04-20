@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/05/inner-text-and-text-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/js/inner-text-and-text-content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/js/node-value.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/node-value.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,22 +25,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/node-value.html">
+        <entry file="file://$PROJECT_DIR$/05/inner-text-and-text-content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="442">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="43" />
               <folding>
                 <element signature="e#52#57#0" expanded="true" />
+                <element signature="e#113#118#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05/js/node-value.js">
+        <entry file="file://$PROJECT_DIR$/05/js/inner-text-and-text-content.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="210">
+              <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -62,8 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/example03.js" />
-        <option value="$PROJECT_DIR$/04/comparison-operator-continued.html" />
         <option value="$PROJECT_DIR$/04/js/comparison-operator-continued.js" />
         <option value="$PROJECT_DIR$/04/comparison-operator.html" />
         <option value="$PROJECT_DIR$/04/js/comparison-operator.js" />
@@ -113,6 +113,8 @@
         <option value="$PROJECT_DIR$/05/node-value.html" />
         <option value="$PROJECT_DIR$/05/js/child.js" />
         <option value="$PROJECT_DIR$/05/js/node-value.js" />
+        <option value="$PROJECT_DIR$/05/inner-text-and-text-content.html" />
+        <option value="$PROJECT_DIR$/05/js/inner-text-and-text-content.js" />
       </list>
     </option>
   </component>
@@ -249,7 +251,7 @@
       <workItem from="1576781584074" duration="635000" />
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
-      <workItem from="1587053691505" duration="16870000" />
+      <workItem from="1587053691505" duration="17943000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -447,11 +449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587349534748</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Accessing &amp; Changing A text Node">
+      <created>1587350350737</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1587350350737</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96164000" />
+    <option name="totallyTimeSpent" value="97237000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -463,7 +472,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" weight="0.2791411" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" weight="0.2789828" />
       <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.13169643" />
       <window_info id="Favorites" order="2" sideWeight="0.5040917" side_tool="true" weight="0.13169643" />
       <window_info anchor="bottom" id="SVN Repositories" order="0" weight="0.32991454" />
@@ -512,7 +521,8 @@
     <MESSAGE value="Query Selector" />
     <MESSAGE value=" Get Elements By Tag Name" />
     <MESSAGE value="Child element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Child element" />
+    <MESSAGE value="Accessing &amp; Changing A text Node" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accessing &amp; Changing A text Node" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -525,24 +535,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04/comparison-operator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="e#89#94#0" expanded="true" />
-            <element signature="e#125#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/js/comparison-operator-continued.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04/js/comparison-operator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -913,6 +905,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/05/js/node-value.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05/node-value.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -923,10 +922,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/js/node-value.js">
+    <entry file="file://$PROJECT_DIR$/05/inner-text-and-text-content.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="442">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="e#52#57#0" expanded="true" />
+            <element signature="e#113#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/js/inner-text-and-text-content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
         </state>
       </provider>
     </entry>
