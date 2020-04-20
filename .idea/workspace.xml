@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="Query Selector">
-      <change afterPath="$PROJECT_DIR$/05/child.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/child.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/node-value.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/query-selector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/sibling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/node-value.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/query-selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/sibling.html" afterDir="false" />
+    <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/js/node-value.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/node-value.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,27 +24,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/child.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="46" />
-              <folding>
-                <element signature="e#52#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05/js/child.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05/node-value.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -63,9 +35,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05/js/node-value.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -134,9 +110,9 @@
         <option value="$PROJECT_DIR$/05/sibling.html" />
         <option value="$PROJECT_DIR$/05/js/sibling.js" />
         <option value="$PROJECT_DIR$/05/child.html" />
-        <option value="$PROJECT_DIR$/05/js/node-value.js" />
         <option value="$PROJECT_DIR$/05/node-value.html" />
         <option value="$PROJECT_DIR$/05/js/child.js" />
+        <option value="$PROJECT_DIR$/05/js/node-value.js" />
       </list>
     </option>
   </component>
@@ -273,7 +249,7 @@
       <workItem from="1576781584074" duration="635000" />
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
-      <workItem from="1587053691505" duration="16041000" />
+      <workItem from="1587053691505" duration="16870000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -464,11 +440,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587341477163</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Child element">
+      <created>1587349534748</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1587349534748</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95335000" />
+    <option name="totallyTimeSpent" value="96164000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -477,7 +460,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="672" y="19" width="697" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" weight="0.2791411" />
@@ -528,7 +511,8 @@
     <MESSAGE value="select elements using class attributes" />
     <MESSAGE value="Query Selector" />
     <MESSAGE value=" Get Elements By Tag Name" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Get Elements By Tag Name" />
+    <MESSAGE value="Child element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Child element" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -912,6 +896,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/05/js/child.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05/child.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
@@ -921,9 +912,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/js/node-value.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/05/node-value.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -935,10 +923,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/js/child.js">
+    <entry file="file://$PROJECT_DIR$/05/js/node-value.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
