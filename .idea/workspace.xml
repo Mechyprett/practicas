@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05/add-element.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/add-element.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/js/add-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/add-element.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05/add-element.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -36,9 +35,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05/js/add-element.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -108,8 +111,8 @@
         <option value="$PROJECT_DIR$/05/js/inner-text-and-text-content.js" />
         <option value="$PROJECT_DIR$/05/inner-html.html" />
         <option value="$PROJECT_DIR$/05/js/inner-html.js" />
-        <option value="$PROJECT_DIR$/05/js/add-element.js" />
         <option value="$PROJECT_DIR$/05/add-element.html" />
+        <option value="$PROJECT_DIR$/05/js/add-element.js" />
       </list>
     </option>
   </component>
@@ -246,7 +249,7 @@
       <workItem from="1576781584074" duration="635000" />
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
-      <workItem from="1587053691505" duration="19815000" />
+      <workItem from="1587053691505" duration="20156000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -472,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587353084749</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add element html">
+      <created>1587353332158</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1587353332158</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99109000" />
+    <option name="totallyTimeSpent" value="99450000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -514,7 +524,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="creando Objetos usando sintaxis de constructores" />
     <MESSAGE value="creacion de un objeto utilizando notaciones literales Actualizacion" />
     <MESSAGE value="creacion de un objeto utilizando notaciones literales actualizacion" />
     <MESSAGE value="Creando y acediendo a objetos construrtor de notaciones" />
@@ -539,7 +548,8 @@
     <MESSAGE value="Accessing &amp; Changing A text Node" />
     <MESSAGE value="Accessing Text Only" />
     <MESSAGE value="Update text &amp; markup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update text &amp; markup" />
+    <MESSAGE value="add element html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add element html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -921,9 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/js/add-element.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/js/inner-html.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -948,6 +955,13 @@
           <folding>
             <element signature="e#52#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/js/add-element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
