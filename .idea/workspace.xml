@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Quicksand License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg-header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg-triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header-triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/more1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/more2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/more3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/more4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/triangles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/normal-flow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-relative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-absolute.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -39,11 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/position-relative.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="210">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/position-absolute.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -66,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/if-statement-with-function.html" />
         <option value="$PROJECT_DIR$/js/if-statement-with-function.js" />
         <option value="$PROJECT_DIR$/js/if-else-statement.js" />
         <option value="$PROJECT_DIR$/js/switch-statement.js" />
@@ -117,6 +109,7 @@
         <option value="$PROJECT_DIR$/05/js/example.js" />
         <option value="$PROJECT_DIR$/normal-flow.html" />
         <option value="$PROJECT_DIR$/position-relative.html" />
+        <option value="$PROJECT_DIR$/position-absolute.html" />
       </list>
     </option>
   </component>
@@ -245,7 +238,7 @@
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
-      <workItem from="1587790386690" duration="1489000" />
+      <workItem from="1587790386690" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -527,11 +520,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587358305782</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="ABSOLUTE Positioning">
+      <created>1587792134320</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1587792134320</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104761000" />
+    <option name="totallyTimeSpent" value="105107000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -568,8 +568,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Working with decimal numbers" />
     <MESSAGE value="Creating a Date Object" />
     <MESSAGE value="Working with Dates &amp; Times" />
     <MESSAGE value="Finalizacion del example #3" />
@@ -594,7 +592,8 @@
     <MESSAGE value="CREATING ATTRIBUTES &amp; CHANGING THEIR VALUES" />
     <MESSAGE value="REMOVING ATTRIBUTE FROM AN ELEMENT" />
     <MESSAGE value="EXAMPLE FINAL O DOCUMENT OBJECT MODEL CHAPTER 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE FINAL O DOCUMENT OBJECT MODEL CHAPTER 5" />
+    <MESSAGE value="ABSOLUTE Positioning" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABSOLUTE Positioning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -607,17 +606,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/switch-statement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <element signature="e#89#94#0" expanded="true" />
-            <element signature="e#125#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/if-else-statement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -996,8 +984,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/position-relative.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="210">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position-absolute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
