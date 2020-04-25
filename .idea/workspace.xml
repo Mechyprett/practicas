@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/js/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand_Book-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/more1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/more2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/more3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/more4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/triangles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normal-flow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-relative.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,19 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/js/example.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05/example.html">
+        <entry file="file://$PROJECT_DIR$/position-relative.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding>
-                <element signature="e#52#57#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="42">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -59,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/logical-or-logical-not.html" />
-        <option value="$PROJECT_DIR$/js/logical-or-logical-not.js" />
         <option value="$PROJECT_DIR$/if-statement-with-function.html" />
         <option value="$PROJECT_DIR$/js/if-statement-with-function.js" />
         <option value="$PROJECT_DIR$/js/if-else-statement.js" />
@@ -108,8 +113,10 @@
         <option value="$PROJECT_DIR$/05/js/set-attribute.js" />
         <option value="$PROJECT_DIR$/05/remove-attribute.html" />
         <option value="$PROJECT_DIR$/05/js/remove-attribute.js" />
-        <option value="$PROJECT_DIR$/05/js/example.js" />
         <option value="$PROJECT_DIR$/05/example.html" />
+        <option value="$PROJECT_DIR$/05/js/example.js" />
+        <option value="$PROJECT_DIR$/normal-flow.html" />
+        <option value="$PROJECT_DIR$/position-relative.html" />
       </list>
     </option>
   </component>
@@ -135,17 +142,6 @@
               <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="05" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,7 +153,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -165,6 +161,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uris Nicolas\Documents\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\img" />
+      <recent name="C:\Users\Uris Nicolas\Documents\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas" />
       <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\img" />
       <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\04\css" />
       <recent name="C:\Users\Uris Nicolas\Desktop\CURSOS ITLA VERON\DIPLOMADO FRONT END\practicas\04\images" />
@@ -246,7 +244,8 @@
       <workItem from="1576781584074" duration="635000" />
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
-      <workItem from="1587053691505" duration="23506000" />
+      <workItem from="1587053691505" duration="23978000" />
+      <workItem from="1587790386690" duration="1489000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -521,11 +520,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587357706751</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="EXAMPLE FINAL O DOCUMENT OBJECT MODEL CHAPTER 5">
+      <created>1587358305782</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1587358305782</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102800000" />
+    <option name="totallyTimeSpent" value="104761000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -537,7 +543,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" weight="0.2789828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.2789828" />
       <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.13169643" />
       <window_info id="Favorites" order="2" sideWeight="0.5040917" side_tool="true" weight="0.13169643" />
       <window_info anchor="bottom" id="SVN Repositories" order="0" weight="0.32991454" />
@@ -563,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Working with String" />
     <MESSAGE value="Working with decimal numbers" />
     <MESSAGE value="Creating a Date Object" />
     <MESSAGE value="Working with Dates &amp; Times" />
@@ -588,7 +593,8 @@
     <MESSAGE value="CHECK FOR AN ATTRIBUTE AND GET ITS VALUES" />
     <MESSAGE value="CREATING ATTRIBUTES &amp; CHANGING THEIR VALUES" />
     <MESSAGE value="REMOVING ATTRIBUTE FROM AN ELEMENT" />
-    <option name="LAST_COMMIT_MESSAGE" value="REMOVING ATTRIBUTE FROM AN ELEMENT" />
+    <MESSAGE value="EXAMPLE FINAL O DOCUMENT OBJECT MODEL CHAPTER 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE FINAL O DOCUMENT OBJECT MODEL CHAPTER 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -601,38 +607,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/if-statement-with-function.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/if-statement-with-function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="63" lean-forward="true" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-          <folding>
-            <element signature="e#89#94#0" expanded="true" />
-            <element signature="e#125#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/if-else-statement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/switch-statement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/switch-statement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -987,7 +961,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05/js/example.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05/example.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -996,6 +974,30 @@
           <folding>
             <element signature="e#52#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number-object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/Quicksand License.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normal-flow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position-relative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
