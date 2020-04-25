@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aligning-images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-sizes.html" beforeDir="false" afterPath="$PROJECT_DIR$/image-sizes.html" afterDir="false" />
+    <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="while loop">
+      <change afterPath="$PROJECT_DIR$/background-image-body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/columns-two.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/columns-three.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixed-width-layout.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +95,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aligning-images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="88">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/centering-images.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/background-image-body.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -140,8 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05/get-element-by-id.html" />
-        <option value="$PROJECT_DIR$/05/js/get-element-by-id.js" />
         <option value="$PROJECT_DIR$/05/get-element-by-class-name.html" />
         <option value="$PROJECT_DIR$/05/css/c05.css" />
         <option value="$PROJECT_DIR$/05/js/get-elements-by-class-name.js" />
@@ -191,6 +189,8 @@
         <option value="$PROJECT_DIR$/example15.html" />
         <option value="$PROJECT_DIR$/image-sizes.html" />
         <option value="$PROJECT_DIR$/aligning-images.html" />
+        <option value="$PROJECT_DIR$/centering-images.html" />
+        <option value="$PROJECT_DIR$/background-image-body.html" />
       </list>
     </option>
   </component>
@@ -320,28 +320,7 @@
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
       <workItem from="1587790386690" duration="8540000" />
-      <workItem from="1587837847288" duration="2091000" />
-    </task>
-    <task id="LOCAL-00008" summary="Creando y acediendo a objetos construrtor de notaciones">
-      <created>1560486545032</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1560486545032</updated>
-    </task>
-    <task id="LOCAL-00009" summary="creacion de un objeto utilizando notaciones literales">
-      <created>1560487688419</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1560487688419</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Agregando y anadiendo propiedades">
-      <created>1560654247101</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1560654247103</updated>
+      <workItem from="1587837847288" duration="3031000" />
     </task>
     <task id="LOCAL-00011" summary="creacion de un objeto utilizando notaciones literales">
       <created>1560654289595</created>
@@ -665,11 +644,32 @@
       <option name="project" value="LOCAL" />
       <updated>1587847245962</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="aligning images using css">
+      <created>1587847559572</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1587847559572</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Centering images">
+      <created>1587847680986</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1587847680986</updated>
+    </task>
+    <task id="LOCAL-00059" summary="while loop">
+      <created>1587847740859</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1587847740859</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113903000" />
+    <option name="totallyTimeSpent" value="114843000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -706,9 +706,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Accessing Text Only" />
-    <MESSAGE value="Update text &amp; markup" />
-    <MESSAGE value="add element html" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="ADDING AND ELEMENT TO THE DOM TREE" />
     <MESSAGE value="Adding html document of removing element from the DOM tree" />
     <MESSAGE value="REMOVING ANA ELEMENT FROM THE DOM TREE" />
@@ -731,7 +729,10 @@
     <MESSAGE value="Multiple Style Sheets @import" />
     <MESSAGE value="ejemplo final del capitulo 15" />
     <MESSAGE value="controling sizes of images in CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="controling sizes of images in CSS" />
+    <MESSAGE value="aligning images using css" />
+    <MESSAGE value="Centering images" />
+    <MESSAGE value="while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -744,16 +745,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05/js/get-elements-by-class-name.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/images/2xkinglogo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/js/get-elements-by-tag-name.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1021,13 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/do-while-loop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/float.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -1137,8 +1121,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aligning-images.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="88">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do-while-loop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centering-images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background-image-body.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
