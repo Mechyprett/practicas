@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/position-fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z-index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,31 +23,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/position-relative.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/position-absolute.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/position-fixed.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/z-index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -68,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/if-else-statement.js" />
         <option value="$PROJECT_DIR$/js/switch-statement.js" />
         <option value="$PROJECT_DIR$/switch-statement.html" />
         <option value="$PROJECT_DIR$/js/for-loop.js" />
@@ -119,6 +96,7 @@
         <option value="$PROJECT_DIR$/position-relative.html" />
         <option value="$PROJECT_DIR$/position-absolute.html" />
         <option value="$PROJECT_DIR$/position-fixed.html" />
+        <option value="$PROJECT_DIR$/z-index.html" />
       </list>
     </option>
   </component>
@@ -247,7 +225,7 @@
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
-      <workItem from="1587790386690" duration="2259000" />
+      <workItem from="1587790386690" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -543,11 +521,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587792251571</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="FIXED POSITIONING">
+      <created>1587792760596</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1587792760596</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105531000" />
+    <option name="totallyTimeSpent" value="106102000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -584,7 +569,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating a Date Object" />
     <MESSAGE value="Working with Dates &amp; Times" />
     <MESSAGE value="Finalizacion del example #3" />
     <MESSAGE value="Comparing two expressions" />
@@ -609,7 +593,8 @@
     <MESSAGE value="REMOVING ATTRIBUTE FROM AN ELEMENT" />
     <MESSAGE value="EXAMPLE FINAL O DOCUMENT OBJECT MODEL CHAPTER 5" />
     <MESSAGE value="ABSOLUTE Positioning" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABSOLUTE Positioning" />
+    <MESSAGE value="FIXED POSITIONING" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIXED POSITIONING" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -622,17 +607,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/for-loop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#89#94#0" expanded="true" />
-            <element signature="e#125#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/if-statement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1003,10 +977,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/position-fixed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="357">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
