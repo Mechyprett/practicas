@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple-style-sheets-link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-sizes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/backdrop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/button-sprite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buttons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/magnolia-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/magnolia-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/magnolia-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pattern.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/print-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/print-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/print-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/print-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/print-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/print-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tulip.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,19 +42,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clear.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/float-problem.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="231">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -46,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/columns-two.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -54,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/columns-three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="672">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -63,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixed-width-layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="252">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="e#1386#1392#0" expanded="true" />
               </folding>
@@ -76,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/liquid-layout.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
                 <element signature="e#1517#1523#0" expanded="true" />
               </folding>
@@ -88,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/grid-layout.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
                 <element signature="e#1329#1335#0" expanded="true" />
               </folding>
@@ -99,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiple-style-sheets.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
+            <state relative-caret-position="714">
               <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
             </state>
           </provider>
@@ -108,21 +116,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiple-style-sheets-link.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="504">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example15.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example15.html">
+        <entry file="file://$PROJECT_DIR$/image-sizes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <element signature="e#5557#5562#0" expanded="true" />
-                <element signature="e#6304#6310#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="441">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -145,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example04.html" />
         <option value="$PROJECT_DIR$/js/example04.js" />
         <option value="$PROJECT_DIR$/05/get-element-by-id.html" />
         <option value="$PROJECT_DIR$/05/js/get-element-by-id.js" />
@@ -196,6 +208,7 @@
         <option value="$PROJECT_DIR$/multiple-style-sheets.html" />
         <option value="$PROJECT_DIR$/multiple-style-sheets-link.html" />
         <option value="$PROJECT_DIR$/example15.html" />
+        <option value="$PROJECT_DIR$/image-sizes.html" />
       </list>
     </option>
   </component>
@@ -324,14 +337,8 @@
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
-      <workItem from="1587790386690" duration="8280000" />
-    </task>
-    <task id="LOCAL-00006" summary="creacion de un objeto utilizando notaciones literales Actualizacion">
-      <created>1560480928017</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1560480928018</updated>
+      <workItem from="1587790386690" duration="8540000" />
+      <workItem from="1587837847288" duration="1885000" />
     </task>
     <task id="LOCAL-00007" summary="creacion de un objeto utilizando notaciones literales actualizacion">
       <created>1560481181972</created>
@@ -669,11 +676,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587798884073</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="ejemplo final del capitulo 15">
+      <created>1587799566244</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1587799566244</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111552000" />
+    <option name="totallyTimeSpent" value="113697000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -710,7 +724,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Child element" />
     <MESSAGE value="Accessing &amp; Changing A text Node" />
     <MESSAGE value="Accessing Text Only" />
     <MESSAGE value="Update text &amp; markup" />
@@ -735,7 +748,8 @@
     <MESSAGE value="A liquid Layout" />
     <MESSAGE value="A grid-Based Layout Using 960.GS" />
     <MESSAGE value="Multiple Style Sheets @import" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiple Style Sheets @import" />
+    <MESSAGE value="ejemplo final del capitulo 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo final del capitulo 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -748,13 +762,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05/css/c05.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/get-element-by-class-name.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1063,13 +1070,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/float-solution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1077,31 +1077,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/clear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/float-problem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="231">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/columns-two.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/columns-three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        <state relative-caret-position="672">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fixed-width-layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="252">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="e#1386#1392#0" expanded="true" />
           </folding>
@@ -1111,7 +1118,7 @@
     <entry file="file://$PROJECT_DIR$/liquid-layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
             <element signature="e#1517#1523#0" expanded="true" />
           </folding>
@@ -1121,7 +1128,7 @@
     <entry file="file://$PROJECT_DIR$/grid-layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
             <element signature="e#1329#1335#0" expanded="true" />
           </folding>
@@ -1130,26 +1137,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple-style-sheets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
+        <state relative-caret-position="714">
           <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple-style-sheets-link.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="504">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example15.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding>
-            <element signature="e#5557#5562#0" expanded="true" />
-            <element signature="e#6304#6310#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image-sizes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
