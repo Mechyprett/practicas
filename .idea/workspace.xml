@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image-sizes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/backdrop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/button-sprite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/buttons.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magnolia-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magnolia-medium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magnolia-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pattern.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/print-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/print-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/print-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/print-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/print-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/print-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/title.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tulip.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aligning-images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-sizes.html" beforeDir="false" afterPath="$PROJECT_DIR$/image-sizes.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/float-problem.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/columns-two.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,11 +104,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image-sizes.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aligning-images.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -158,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/example04.js" />
         <option value="$PROJECT_DIR$/05/get-element-by-id.html" />
         <option value="$PROJECT_DIR$/05/js/get-element-by-id.js" />
         <option value="$PROJECT_DIR$/05/get-element-by-class-name.html" />
@@ -209,6 +190,7 @@
         <option value="$PROJECT_DIR$/multiple-style-sheets-link.html" />
         <option value="$PROJECT_DIR$/example15.html" />
         <option value="$PROJECT_DIR$/image-sizes.html" />
+        <option value="$PROJECT_DIR$/aligning-images.html" />
       </list>
     </option>
   </component>
@@ -338,14 +320,7 @@
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
       <workItem from="1587790386690" duration="8540000" />
-      <workItem from="1587837847288" duration="1885000" />
-    </task>
-    <task id="LOCAL-00007" summary="creacion de un objeto utilizando notaciones literales actualizacion">
-      <created>1560481181972</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1560481181972</updated>
+      <workItem from="1587837847288" duration="2091000" />
     </task>
     <task id="LOCAL-00008" summary="Creando y acediendo a objetos construrtor de notaciones">
       <created>1560486545032</created>
@@ -683,11 +658,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587799566244</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="controling sizes of images in CSS">
+      <created>1587847245949</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1587847245962</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113697000" />
+    <option name="totallyTimeSpent" value="113903000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -724,7 +706,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Accessing &amp; Changing A text Node" />
     <MESSAGE value="Accessing Text Only" />
     <MESSAGE value="Update text &amp; markup" />
     <MESSAGE value="add element html" />
@@ -749,7 +730,8 @@
     <MESSAGE value="A grid-Based Layout Using 960.GS" />
     <MESSAGE value="Multiple Style Sheets @import" />
     <MESSAGE value="ejemplo final del capitulo 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejemplo final del capitulo 15" />
+    <MESSAGE value="controling sizes of images in CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="controling sizes of images in CSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -762,16 +744,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05/get-element-by-class-name.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="e#52#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/js/get-elements-by-class-name.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1158,8 +1130,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image-sizes.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aligning-images.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
