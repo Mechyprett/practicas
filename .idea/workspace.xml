@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multiple-style-sheets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple-style-sheets-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,9 +96,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiple-style-sheets.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multiple-style-sheets-link.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example15.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#5557#5562#0" expanded="true" />
+                <element signature="e#6304#6310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -117,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/do-while.html" />
-        <option value="$PROJECT_DIR$/js/do-while-loop.js" />
         <option value="$PROJECT_DIR$/example04.html" />
         <option value="$PROJECT_DIR$/js/example04.js" />
         <option value="$PROJECT_DIR$/05/get-element-by-id.html" />
@@ -168,6 +194,8 @@
         <option value="$PROJECT_DIR$/liquid-layout.html" />
         <option value="$PROJECT_DIR$/grid-layout.html" />
         <option value="$PROJECT_DIR$/multiple-style-sheets.html" />
+        <option value="$PROJECT_DIR$/multiple-style-sheets-link.html" />
+        <option value="$PROJECT_DIR$/example15.html" />
       </list>
     </option>
   </component>
@@ -296,14 +324,7 @@
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
-      <workItem from="1587790386690" duration="7798000" />
-    </task>
-    <task id="LOCAL-00005" summary="creando Objetos usando sintaxis de constructores">
-      <created>1560480276461</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1560480276461</updated>
+      <workItem from="1587790386690" duration="8280000" />
     </task>
     <task id="LOCAL-00006" summary="creacion de un objeto utilizando notaciones literales Actualizacion">
       <created>1560480928017</created>
@@ -641,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587798578446</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Multiple Style Sheets @import">
+      <created>1587798884073</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1587798884073</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111070000" />
+    <option name="totallyTimeSpent" value="111552000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -682,7 +710,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Get Elements By Tag Name" />
     <MESSAGE value="Child element" />
     <MESSAGE value="Accessing &amp; Changing A text Node" />
     <MESSAGE value="Accessing Text Only" />
@@ -707,7 +734,8 @@
     <MESSAGE value="A fixed width Layout" />
     <MESSAGE value="A liquid Layout" />
     <MESSAGE value="A grid-Based Layout Using 960.GS" />
-    <option name="LAST_COMMIT_MESSAGE" value="A grid-Based Layout Using 960.GS" />
+    <MESSAGE value="Multiple Style Sheets @import" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple Style Sheets @import" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -720,20 +748,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05/get-element-by-id.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/js/get-element-by-id.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/css/c05.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1115,7 +1129,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple-style-sheets.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiple-style-sheets-link.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#5557#5562#0" expanded="true" />
+            <element signature="e#6304#6310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
