@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/float-problem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/float-solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +24,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clear.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/float-problem.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/float-solution.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -45,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/for-loop.html" />
-        <option value="$PROJECT_DIR$/if-else-statement.html" />
         <option value="$PROJECT_DIR$/while-loop.html" />
         <option value="$PROJECT_DIR$/js/if-statement.js" />
         <option value="$PROJECT_DIR$/if-statement.html" />
@@ -96,6 +114,8 @@
         <option value="$PROJECT_DIR$/float.html" />
         <option value="$PROJECT_DIR$/using-float.html" />
         <option value="$PROJECT_DIR$/clear.html" />
+        <option value="$PROJECT_DIR$/float-problem.html" />
+        <option value="$PROJECT_DIR$/float-solution.html" />
       </list>
     </option>
   </component>
@@ -224,7 +244,7 @@
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
-      <workItem from="1587790386690" duration="3723000" />
+      <workItem from="1587790386690" duration="4840000" />
     </task>
     <task id="LOCAL-00001" summary="Estos son las practicas de estudio de los dos libros de John Ducket">
       <created>1560350613468</created>
@@ -548,11 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587793926405</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Clearing Floats">
+      <created>1587794274942</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1587794274942</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106995000" />
+    <option name="totallyTimeSpent" value="108112000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -589,7 +616,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Using comparison operators" />
     <MESSAGE value="Using logical AND" />
     <MESSAGE value="Using logical Or &amp; Logical NOT" />
     <MESSAGE value="Using logical AND &amp; Logical OR &amp; NOT" />
@@ -614,7 +640,8 @@
     <MESSAGE value="overlapping elements" />
     <MESSAGE value="floating  elements" />
     <MESSAGE value="using float to place elements side-by-side" />
-    <option name="LAST_COMMIT_MESSAGE" value="using float to place elements side-by-side" />
+    <MESSAGE value="Clearing Floats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clearing Floats" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,14 +654,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/do-while.html" />
-    <entry file="file://$PROJECT_DIR$/js/while-loop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/while-loop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -999,6 +1018,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/float-problem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/float-solution.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
