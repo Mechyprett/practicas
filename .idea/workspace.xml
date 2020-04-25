@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fixed-width-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liquid-layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -59,13 +59,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixed-width-layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="232">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="e#1386#1392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liquid-layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#1517#1523#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/while-loop.js" />
         <option value="$PROJECT_DIR$/js/do-while.html" />
         <option value="$PROJECT_DIR$/js/do-while.js" />
         <option value="$PROJECT_DIR$/do-while.html" />
@@ -140,6 +151,7 @@
         <option value="$PROJECT_DIR$/columns-two.html" />
         <option value="$PROJECT_DIR$/columns-three.html" />
         <option value="$PROJECT_DIR$/fixed-width-layout.html" />
+        <option value="$PROJECT_DIR$/liquid-layout.html" />
       </list>
     </option>
   </component>
@@ -268,14 +280,7 @@
       <workItem from="1577380468849" duration="694000" />
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
-      <workItem from="1587790386690" duration="6478000" />
-    </task>
-    <task id="LOCAL-00002" summary="creacion de un objeto utilizando notaciones literales">
-      <created>1560360277050</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1560360277050</updated>
+      <workItem from="1587790386690" duration="7051000" />
     </task>
     <task id="LOCAL-00003" summary="creacion de un objeto utilizando notaciones literales">
       <created>1560362723342</created>
@@ -613,11 +618,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587796660459</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="A fixed width Layout">
+      <created>1587797699426</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1587797699426</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109750000" />
+    <option name="totallyTimeSpent" value="110323000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -654,7 +666,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="select elements using Id attributes" />
     <MESSAGE value="select elements using class attributes" />
     <MESSAGE value="Query Selector" />
     <MESSAGE value=" Get Elements By Tag Name" />
@@ -679,7 +690,8 @@
     <MESSAGE value="parents of floated elements : solution" />
     <MESSAGE value="Creating multi-column layouts with floats" />
     <MESSAGE value="Creating multi-column layouts with floats columns three" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating multi-column layouts with floats columns three" />
+    <MESSAGE value="A fixed width Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="A fixed width Layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -692,13 +704,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/do-while-loop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/example04.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1079,10 +1084,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fixed-width-layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="232">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="e#1386#1392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liquid-layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#1517#1523#0" expanded="true" />
           </folding>
         </state>
       </provider>
