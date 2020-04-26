@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9cbc7a-379d-42c0-ac48-986ce175e3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/background-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background-repeat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -45,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/background-attachment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="168">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -249,14 +247,7 @@
       <workItem from="1587014366148" duration="598000" />
       <workItem from="1587053691505" duration="23978000" />
       <workItem from="1587790386690" duration="8540000" />
-      <workItem from="1587837847288" duration="3628000" />
-    </task>
-    <task id="LOCAL-00014" summary="Working with String">
-      <created>1561346171892</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1561346171892</updated>
+      <workItem from="1587837847288" duration="4251000" />
     </task>
     <task id="LOCAL-00015" summary="Working with decimal numbers">
       <created>1561348194556</created>
@@ -594,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587848665669</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="repeating images">
+      <created>1587848986589</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1587848986589</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115440000" />
+    <option name="totallyTimeSpent" value="116063000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -607,7 +605,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.2789828" />
@@ -635,7 +633,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding html document of removing element from the DOM tree" />
     <MESSAGE value="REMOVING ANA ELEMENT FROM THE DOM TREE" />
     <MESSAGE value="CHECK FOR AN ATTRIBUTE AND GET ITS VALUES" />
     <MESSAGE value="CREATING ATTRIBUTES &amp; CHANGING THEIR VALUES" />
@@ -660,7 +657,8 @@
     <MESSAGE value="Centering images" />
     <MESSAGE value="while loop" />
     <MESSAGE value="Background Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Background Images" />
+    <MESSAGE value="repeating images" />
+    <option name="LAST_COMMIT_MESSAGE" value="repeating images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1067,8 +1065,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/background-attachment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="168">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
